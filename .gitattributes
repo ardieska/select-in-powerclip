@@ -1,0 +1,6 @@
+*.cls encoding=cp1251 text eol=crlf
+*.bas encoding=cp1251 text eol=crlf
+*.frm encoding=cp1251 text eol=crlf
+
+*.frx -diff
+*.gms -diff
